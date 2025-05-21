@@ -1,5 +1,5 @@
 <h1 align="center">こんにちは パドリナです。</h1>
-<h3 align="center">私は日本で個人事業主として活動してます。</h3>
+<h3 align="center">プロフィールをご覧いただきまして、ありがとうございます。</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aren28" alt="aren28" /></a> </p>
 
